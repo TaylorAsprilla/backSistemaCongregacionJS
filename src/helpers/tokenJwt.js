@@ -9,7 +9,7 @@ class TokenJwt {
                 id,
                 usuario,
             };
-            jwt.sign(payload, process.env.JWT_SECRET, {
+            jwt.sign(payload, `laoefdfs$5232ewq*312$`, {
                 expiresIn: '24h',
             }, (err, token) => {
                 if (err) {
