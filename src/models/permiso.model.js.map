@@ -1,0 +1,1 @@
+{"version":3,"file":"permiso.model.js","sourceRoot":"","sources":["../../../src/models/permiso.model.ts"],"names":[],"mappings":";;;;;AAAA,yCAAsC;AAEtC,2EAA2C;AAE3C,MAAM,OAAO,GAAG,oBAAE,CAAC,MAAM,CACvB,SAAS,EACT;IACE,MAAM,EAAE;QACN,IAAI,EAAE,qBAAS,CAAC,MAAM;QACtB,SAAS,EAAE,KAAK;KACjB;CACF,EACD;IACE,eAAe,EAAE,IAAI;CACtB,CACF,CAAC;AAEF,kBAAe,OAAO,CAAC"}

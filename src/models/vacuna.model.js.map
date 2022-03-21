@@ -1,0 +1,1 @@
+{"version":3,"file":"vacuna.model.js","sourceRoot":"","sources":["../../../src/models/vacuna.model.ts"],"names":[],"mappings":";;;;;AAAA,yCAAsC;AAEtC,2EAA2C;AAE3C,MAAM,MAAM,GAAG,oBAAE,CAAC,MAAM,CACtB,QAAQ,EACR;IACE,MAAM,EAAE;QACN,IAAI,EAAE,qBAAS,CAAC,MAAM;QACtB,SAAS,EAAE,KAAK;KACjB;CACF,EACD;IACE,eAAe,EAAE,IAAI;CACtB,CACF,CAAC;AAEF,kBAAe,MAAM,CAAC"}
